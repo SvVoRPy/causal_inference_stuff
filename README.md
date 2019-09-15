@@ -1,2 +1,2 @@
-# causal_inference_stuff
+# Causal Inference
 Everything related to Causal Inference - testing around and notes!
